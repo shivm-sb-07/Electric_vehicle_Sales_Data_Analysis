@@ -50,11 +50,14 @@ This project focuses on analyzing electric vehicle (EV) sales data across variou
 
 ## Screenshots :
 
-![Screenshot (153)](https://github.com/user-attachments/assets/4d832f7b-7a58-4438-84bb-ef57c82ba162)
+![Screenshot (160)](https://github.com/user-attachments/assets/2d96e0dd-b5e1-4803-8dc6-f4f601f1b26f)
+
 
 ![Screenshot (154)](https://github.com/user-attachments/assets/3602373c-7035-40ad-98fb-1f39cc3b474c)
 
+
 ![Screenshot (155)](https://github.com/user-attachments/assets/cff7a439-49f9-4b4f-8c30-6065ef77c471)
+
 
 ![Screenshot (156)](https://github.com/user-attachments/assets/456567fd-0186-4519-b194-96cf2b301b56)
 
